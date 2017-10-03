@@ -29,27 +29,27 @@ export default [
         answer: [
 			{
 			    answer: 'business formal',
-			    image_url: './image/slide_3_work_wear/business_formal'
+			    image_url: './image/slide_3_work_wear/business_formal.jpg'
 			},
 			{
 			    answer: 'business casual',
-			    image_url: './image/slide_3_work_wear/business_casual'
+			    image_url: './image/slide_3_work_wear/business_casual.jpg'
 			},
 			{
 			    answer: 'fashion girl',
-			    image_url: './image/slide_3_work_wear/fashion_girl'
+			    image_url: './image/slide_3_work_wear/fashion_girl.jpg'
 			},
 			{
 			    answer: 'creative/artistic',
-			    image_url: './image/slide_3_work_wear/creative'
+			    image_url: './image/slide_3_work_wear/creative.jpg'
 			},
             {
                 answer: 'start-up',
-                image_url: './image/slide_3_work_wear/startup'
+                image_url: './image/slide_3_work_wear/startup.jpg'
             },
             {
                 answer: 'work from home',
-                image_url: './image/slide_3_work_wear/work_from_home'
+                image_url: './image/slide_3_work_wear/work_from_home.jpg'
             }
 			
         ]
@@ -60,23 +60,23 @@ export default [
         answer: [
 			{
 			    answer: 'classic minimal',
-			    image_url: './image/slide_4_influencer_inspiration/Classic_minimal'
+			    image_url: './image/slide_4_influencer_inspiration/Classic_minimal.jpg'
 			},
 			{
 			    answer: 'edgy',
-			    image_url: './image/slide_4_influencer_inspiration/Edgy'
+			    image_url: './image/slide_4_influencer_inspiration/Edgy.jpg'
 			},
 			{
 			    answer: 'feminine',
-			    image_url: './image/slide_4_influencer_inspiration/Feminine'
+			    image_url: './image/slide_4_influencer_inspiration/Feminine.jpg'
 			},
 			{
 			    answer: 'maximalist',
-			    image_url: './image/slide_4_influencer_inspiration/Maximalist'
+			    image_url: './image/slide_4_influencer_inspiration/Maximalist.jpg'
 			},
             {
                 answer: 'trendy',
-                image_url: './image/slide_4_influencer_inspiration/Trendy'
+                image_url: './image/slide_4_influencer_inspiration/Trendy.jpg'
             }
 			
         ]
@@ -87,19 +87,19 @@ export default [
         answer: [
 			{
 			    answer: 'cleanse tone oil moisturize',
-			    image_url: './image/slide_5_skincare/Cleanse_tone_oil_moisturize'
+			    image_url: './image/slide_5_skincare/Cleanse_tone_oil_moisturize.jpg'
 			},
 			{
 			    answer: 'like saphora',
-			    image_url: './image/slide_5_skincare/sophora'
+			    image_url: './image/slide_5_skincare/sophora.jpg'
 			},
 			{
 			    answer: 'use serum',
-			    image_url: './image/slide_5_skincare/serum'
+			    image_url: './image/slide_5_skincare/serum.jpg'
 			},
 			{
 			    answer: 'wash my face',
-			    image_url: './image/slide_5_skincare/wash_my_face'
+			    image_url: './image/slide_5_skincare/wash_my_face.jpg'
 			}
 			
         ]
@@ -110,15 +110,15 @@ export default [
         answer: [
 			{
 			    answer: 'family time',
-			    image_url: './image/slide_6_friday_night/FamilyTime'
+			    image_url: './image/slide_6_friday_night/FamilyTime.jpg'
 			},
 			{
 			    answer: 'girls night',
-			    image_url: './image/slide_6_friday_night/GirlsNight'
+			    image_url: './image/slide_6_friday_night/GirlsNight.jpg'
 			},
 			{
 			    answer: 'takeout netflix and chill',
-			    image_url: './image/slide_6_friday_night/TakeoutNetflixChill'
+			    image_url: './image/slide_6_friday_night/TakeoutNetflixChill.jpg'
 			}
 			
         ]
@@ -129,27 +129,27 @@ export default [
         answer: [
 			{
 			    answer: 'coastal',
-			    image_url: './image/slide_7_dream_livingroom/Coastal'
+			    image_url: './image/slide_7_dream_livingroom/Coastal.jpg'
 			},
 			{
 			    answer: 'eclectic',
-			    image_url: './image/slide_7_dream_livingroom/Eclectic'
+			    image_url: './image/slide_7_dream_livingroom/Eclectic.jpg'
 			},
 			{
 			    answer: 'maximal',
-			    image_url: './image/slide_7_dream_livingroom/Maximal'
+			    image_url: './image/slide_7_dream_livingroom/Maximal.jpg'
 			},
 			{
 			    answer: 'midcentury',
-			    image_url: './image/slide_7_dream_livingroom/Midcentury'
+			    image_url: './image/slide_7_dream_livingroom/Midcentury.jpg'
 			},
             {
                 answer: 'minimal',
-                image_url: './image/slide_7_dream_livingroom/Minimal'
+                image_url: './image/slide_7_dream_livingroom/Minimal.jpg'
             },
             {
                 answer: 'transitional',
-                image_url: './image/slide_7_dream_livingroom/Transitional'
+                image_url: './image/slide_7_dream_livingroom/Transitional.jpg'
             }
 			
         ]
@@ -160,139 +160,28 @@ export default [
         answer: [
 			{
 			    answer: 'cooking',
-			    image_url: './image/slide_8_freetime/Cooking'
+			    image_url: './image/slide_8_freetime/Cooking.jpg'
 			},
 			{
 			    answer: 'reading',
-			    image_url: './image/slide_8_freetime/ReadingBook'
+			    image_url: './image/slide_8_freetime/ReadingBook.jpg'
 			},
 			{
 			    answer: 'shopping',
-			    image_url: './image/slide_8_freetime/Shopping'
+			    image_url: './image/slide_8_freetime/Shopping.jpg'
 			},
 			{
 			    answer: 'travel',
-			    image_url: 'Travel'
+			    image_url: './image/slide_8_freetime/Travel.jpg'
 			},
             {
                 answer: 'wellness selfcare',
-                image_url: 'WellnessSelfCare'
+                image_url: './image/slide_8_freetime/WellnessSelfCare.jpg'
             },
             {
                 answer: 'working out',
-                image_url: 'WorkingOut'
+                image_url: './image/slide_8_freetime/WorkingOut.jpg'
             }
 			
         ]
-    },
-    // Slide 2
-    {
-        question: '',
-        answer: [
-			{
-			    answer: '',
-			    image_url: ''
-			},
-			{
-			    answer: '',
-			    image_url: ''
-			},
-			{
-			    answer: '',
-			    image_url: ''
-			},
-			{
-			    answer: '',
-			    image_url: ''
-			}
-			
-        ]
-    },
-    // Slide 2
-    {
-        question: '',
-        answer: [
-			{
-			    answer: '',
-			    image_url: ''
-			},
-			{
-			    answer: '',
-			    image_url: ''
-			},
-			{
-			    answer: '',
-			    image_url: ''
-			},
-			{
-			    answer: '',
-			    image_url: ''
-			}
-			
-        ]
-    },
-	
-	
-	
-	
-	
-	
-	
-    {
-        image_url: 'https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/20687913_1946136592340698_7941965000745156608_n.jpg',
-        image_credit: '@arginehdanelian',
-        image_credit_url: 'https://www.instagram.com/arginehdanelian/',
-        products: [
-            'mTYnDq',
-            'mTYnTR'
-        ]
-    },
-    {
-        image_url: 'https://scontent-atl3-1.cdninstagram.com/t51.2885-15/e35/21296949_1546342225388851_9128232412394815488_n.jpg',
-        image_credit: '@melinchanel',
-        image_credit_url: 'https://www.instagram.com/melinchanel/',
-        products: [
-            'mTYnDl'
-        ]
-    },
-    {
-        image_url: 'https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/20633309_254263638395602_4224895368422227968_n.jpg',
-        image_credit: '@houseandhanger',
-        image_credit_url: 'https://www.instagram.com/houseandhanger/?hl=en',
-        products: [
-            'mTYnH3'
-        ]
-    },
-    {
-        image_url: 'https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/20181240_777585832413921_8259905448094728192_n.jpg',
-        image_credit: '@katherinepower',
-        image_credit_url: 'https://www.instagram.com/katherinepower/?hl=en',
-        products: [
-            'mTBtwH'
-        ]
-    },
-    {
-        image_url: 'https://scontent-atl3-1.cdninstagram.com/t51.2885-15/e35/21294354_288583981619832_535308591876276224_n.jpg',
-        image_credit: '@courtneeruthie',
-        image_credit_url: 'https://www.instagram.com/courtneeruthie/',
-        products: [
-            'mTdjM3'
-        ]
-    },
-    {
-        image_url: 'https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/20482363_1390747111046996_3415462795276189696_n.jpg',
-        image_credit: '@mydaywithj',
-        image_credit_url: 'https://www.instagram.com/mydaywithj/',
-        products: [
-            'mTYnTr'
-        ]
-    },
-    {
-        image_url: 'https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/20225505_1433582506723586_2255083629715652608_n.jpg',
-        image_credit: '@skirtsofurban',
-        image_credit_url: 'https://www.instagram.com/skirtsofurban/',
-        products: [
-            'mTYn2f'
-        ]
     }
-];
